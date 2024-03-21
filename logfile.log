@@ -1,0 +1,238 @@
+2024-03-19T08:47:22.226Z - error: Error connecting to MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-03-19T08:48:08.428Z - info: Connected to MongoDB
+2024-03-19T08:53:44.569Z - error: Error connecting to MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-03-19T08:56:59.698Z - error: Error connecting to MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-03-19T09:00:18.303Z - error: Error connecting to MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-03-19T09:02:25.844Z - info: Connected to MongoDB
+2024-03-19T09:03:31.070Z - info: Connected to MongoDB
+2024-03-19T09:03:44.857Z - info: Connected to MongoDB
+2024-03-19T09:04:02.796Z - info: Connected to MongoDB
+2024-03-19T09:05:58.649Z - info: Connected to MongoDB
+2024-03-19T09:10:31.936Z - info: MongoDB connected
+2024-03-19T09:10:50.193Z - info: MongoDB connected
+2024-03-19T09:11:38.757Z - info: MongoDB connected
+2024-03-19T09:12:23.891Z - info: MongoDB connected
+2024-03-19T09:15:53.937Z - info: MongoDB connected
+2024-03-19T09:22:40.493Z - info: MongoDB connected
+2024-03-19T09:41:55.275Z - info: MongoDB connected
+2024-03-19T11:10:16.910Z - info: MongoDB connected
+2024-03-19T11:14:26.387Z - info: MongoDB connected
+2024-03-19T11:14:30.879Z - info: added beds successfully
+2024-03-19T11:14:46.560Z - info: MongoDB connected
+2024-03-19T11:14:53.996Z - info: added beds successfully
+2024-03-19T11:17:03.769Z - info: MongoDB connected
+2024-03-19T11:17:15.760Z - info: MongoDB connected
+2024-03-19T11:17:27.359Z - info: MongoDB connected
+2024-03-19T11:42:08.117Z - info: MongoDB connected
+2024-03-19T11:42:14.781Z - info: MongoDB connected
+2024-03-19T11:45:54.827Z - info: MongoDB connected
+2024-03-19T11:46:16.539Z - info: MongoDB connected
+2024-03-19T11:56:45.370Z - info: MongoDB connected
+2024-03-19T11:58:42.983Z - info: MongoDB connected
+2024-03-19T12:03:52.527Z - info: MongoDB connected
+2024-03-19T12:08:44.484Z - info: added beds successfully
+2024-03-19T12:16:00.044Z - info: MongoDB connected
+2024-03-19T12:23:04.773Z - info: MongoDB connected
+2024-03-19T12:24:30.692Z - info: Patient admitted successfully
+2024-03-19T12:26:51.773Z - info: Patient admitted successfully
+2024-03-19T12:34:39.649Z - info: MongoDB connected
+2024-03-19T12:38:00.864Z - info: MongoDB connected
+2024-03-19T12:38:05.446Z - error: Selected bed is already occupied
+2024-03-19T12:39:47.077Z - info: MongoDB connected
+2024-03-19T12:39:57.805Z - error: Selected bed is already occupied
+2024-03-19T12:42:02.954Z - info: MongoDB connected
+2024-03-19T12:42:10.123Z - info: MongoDB connected
+2024-03-19T12:42:13.921Z - error: Selected bed is already occupied
+2024-03-19T12:43:18.773Z - info: MongoDB connected
+2024-03-19T12:43:23.430Z - error: Selected bed is already occupied
+2024-03-19T12:45:36.241Z - info: MongoDB connected
+2024-03-19T12:45:39.841Z - error: Selected bed is already occupied
+2024-03-19T12:49:50.007Z - info: MongoDB connected
+2024-03-19T12:49:54.162Z - error: Selected bed is already occupied
+2024-03-19T13:09:21.859Z - info: MongoDB connected
+2024-03-19T13:09:28.947Z - error: Selected bed is already occupied
+2024-03-19T13:10:50.543Z - info: MongoDB connected
+2024-03-19T13:10:59.468Z - error: Selected bed is already occupied
+2024-03-19T13:12:20.964Z - info: MongoDB connected
+2024-03-19T13:12:24.851Z - error: Selected bed is already occupied
+2024-03-19T13:15:16.178Z - error: Selected bed is already occupied
+2024-03-19T13:18:38.083Z - info: MongoDB connected
+2024-03-19T13:18:42.453Z - error: Selected bed is already occupied
+2024-03-19T13:23:28.539Z - info: MongoDB connected
+2024-03-19T13:23:33.047Z - error: Selected bed is already occupied
+2024-03-19T13:28:22.911Z - info: MongoDB connected
+2024-03-19T13:28:26.954Z - error: Selected bed is already occupied
+2024-03-19T13:29:45.980Z - info: MongoDB connected
+2024-03-19T13:29:53.560Z - error: Selected bed is already occupied
+2024-03-19T13:31:08.086Z - info: MongoDB connected
+2024-03-19T13:32:29.007Z - error: Selected bed is already occupied
+2024-03-19T13:35:26.530Z - info: MongoDB connected
+2024-03-19T13:35:30.581Z - error: Selected bed is already occupied
+2024-03-19T13:36:00.164Z - info: MongoDB connected
+2024-03-19T13:36:27.016Z - info: MongoDB connected
+2024-03-19T13:39:48.213Z - info: MongoDB connected
+2024-03-19T13:40:54.908Z - info: MongoDB connected
+2024-03-19T13:41:52.394Z - info: MongoDB connected
+2024-03-19T13:43:11.108Z - info: MongoDB connected
+2024-03-19T13:43:25.509Z - info: MongoDB connected
+2024-03-19T13:44:19.078Z - info: MongoDB connected
+2024-03-19T13:45:56.788Z - info: MongoDB connected
+2024-03-19T13:46:24.468Z - error: Invalid bed count found
+2024-03-19T13:54:51.606Z - info: MongoDB connected
+2024-03-19T13:55:06.871Z - error: Invalid bed count found
+2024-03-19T13:57:46.635Z - info: MongoDB connected
+2024-03-19T13:57:50.721Z - error: Invalid bed count found
+2024-03-19T14:03:08.046Z - info: MongoDB connected
+2024-03-19T14:03:12.802Z - error: Invalid bed count found
+2024-03-19T14:03:33.875Z - info: MongoDB connected
+2024-03-19T14:03:41.571Z - error: Invalid bed count found
+2024-03-19T14:05:25.157Z - info: MongoDB connected
+2024-03-19T14:05:28.693Z - error: Invalid bed count found
+2024-03-19T14:08:27.545Z - info: MongoDB connected
+2024-03-19T14:08:32.384Z - error: Invalid bed count found
+2024-03-19T14:11:18.047Z - info: MongoDB connected
+2024-03-19T14:11:36.334Z - info: Added beds successfully
+2024-03-19T14:11:44.045Z - info: Added beds successfully
+2024-03-19T14:11:56.339Z - error: Invalid bed count found
+2024-03-19T14:13:11.604Z - info: MongoDB connected
+2024-03-19T14:18:59.504Z - info: MongoDB connected
+2024-03-19T14:19:10.699Z - error: Invalid bed count found
+2024-03-19T14:19:18.597Z - error: Invalid bed count found
+2024-03-19T14:20:29.081Z - info: MongoDB connected
+2024-03-19T14:20:32.235Z - error: Invalid bed count found
+2024-03-19T14:20:32.236Z - error: Bad Request
+2024-03-19T14:21:11.348Z - info: MongoDB connected
+2024-03-19T14:21:15.932Z - error: Invalid bed count found
+2024-03-19T14:21:15.933Z - error: Bad Request
+2024-03-19T14:21:33.503Z - info: MongoDB connected
+2024-03-19T14:23:07.801Z - info: MongoDB connected
+2024-03-19T14:23:46.379Z - info: Added beds successfully
+2024-03-19T14:26:13.047Z - info: MongoDB connected
+2024-03-19T14:26:21.501Z - error: Not Found
+2024-03-19T14:26:53.264Z - info: Patient admitted successfully
+2024-03-19T14:27:50.979Z - info: MongoDB connected
+2024-03-19T14:28:02.430Z - info: MongoDB connected
+2024-03-19T14:28:15.727Z - info: MongoDB connected
+2024-03-19T15:27:53.686Z - info: MongoDB connected
+2024-03-19T15:31:16.814Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-03-19T15:31:22.845Z - error: Bad Request
+2024-03-19T15:33:35.633Z - info: MongoDB connected
+2024-03-19T15:33:47.900Z - info: MongoDB connected
+2024-03-19T15:33:58.114Z - info: MongoDB connected
+2024-03-19T15:47:46.381Z - info: MongoDB connected
+2024-03-19T15:50:34.516Z - error: generateDischargeId is not defined
+2024-03-19T15:52:09.636Z - info: MongoDB connected
+2024-03-19T15:52:15.454Z - error: Patient is not defined
+2024-03-19T15:53:31.997Z - info: MongoDB connected
+2024-03-19T15:53:36.544Z - error: Patient is not occupying the bed or already discharged.
+2024-03-19T15:54:23.224Z - error: Patient is not occupying the bed or already discharged.
+2024-03-19T15:58:06.312Z - error: Patient is not occupying the bed or already discharged.
+2024-03-19T15:59:12.132Z - info: Calculated Mortality Rate:
+2024-03-19T15:59:12.154Z - info: Patient discharged and bed record updated successfully.
+2024-03-19T16:00:27.905Z - info: MongoDB connected
+2024-03-19T16:00:37.751Z - info: MongoDB connected
+2024-03-19T16:00:52.609Z - info: MongoDB connected
+2024-03-19T16:06:45.758Z - info: MongoDB connected
+2024-03-19T16:08:41.993Z - info: MongoDB connected
+2024-03-19T16:08:53.567Z - info: MongoDB connected
+2024-03-19T16:19:24.564Z - info: MongoDB connected
+2024-03-19T16:21:06.775Z - info: MongoDB connected
+2024-03-19T16:39:46.154Z - info: MongoDB connected
+<<<<<<< HEAD
+2024-03-20T05:03:32.242Z - info: MongoDB connected
+2024-03-20T05:04:57.913Z - info: MongoDB connected
+2024-03-20T05:12:26.361Z - info: MongoDB connected
+2024-03-20T05:17:57.957Z - info: MongoDB connected
+2024-03-20T05:18:38.404Z - info: MongoDB connected
+2024-03-20T05:47:49.347Z - info: MongoDB connected
+2024-03-20T06:01:37.492Z - error: Ward or bed does not exist
+2024-03-20T06:01:37.510Z - error: Not Found
+2024-03-20T06:04:51.746Z - info: MongoDB connected
+2024-03-20T06:05:03.228Z - info: MongoDB connected
+2024-03-20T06:05:29.795Z - error: Ward or bed does not exist
+2024-03-20T06:05:29.798Z - error: Not Found
+2024-03-20T06:14:29.155Z - info: MongoDB connected
+2024-03-20T06:24:59.256Z - info: MongoDB connected
+2024-03-20T06:27:03.909Z - info: MongoDB connected
+2024-03-20T06:33:49.885Z - info: MongoDB connected
+2024-03-20T06:33:55.042Z - info: Added beds successfully
+2024-03-20T06:34:35.214Z - info: Added beds successfully
+2024-03-20T06:56:41.877Z - info: Patient admitted successfully
+2024-03-20T07:01:59.723Z - info: MongoDB connected
+2024-03-20T07:02:10.541Z - info: MongoDB connected
+2024-03-20T07:18:14.639Z - info: MongoDB connected
+2024-03-20T07:18:45.589Z - info: MongoDB connected
+=======
+2024-03-20T07:22:07.990Z - info: MongoDB connected
+2024-03-20T07:23:57.069Z - info: MongoDB connected
+2024-03-20T07:24:21.060Z - info: MongoDB connected
+2024-03-20T07:25:17.411Z - info: MongoDB connected
+2024-03-20T07:25:50.429Z - info: MongoDB connected
+>>>>>>> 06529959ac0cb64d8d1b2b18eaa64e6f80bfb58b
+2024-03-20T08:30:31.923Z - info: MongoDB connected
+<<<<<<< HEAD
+2024-03-20T08:32:52.302Z - info: MongoDB connected
+2024-03-20T11:39:39.890Z - info: MongoDB connected
+2024-03-20T11:45:07.099Z - info: MongoDB connected
+2024-03-20T11:45:24.311Z - error: logger is not defined
+2024-03-20T11:46:35.528Z - info: MongoDB connected
+2024-03-20T11:46:41.692Z - error: error is not defined
+2024-03-20T11:47:24.808Z - info: MongoDB connected
+2024-03-20T11:49:05.001Z - error: User details not valid
+2024-03-20T11:49:05.005Z - error: email or password is not valid
+2024-03-20T11:49:52.539Z - error: All fields Mandatory
+2024-03-20T11:49:52.548Z - error: All Fields Mandatory
+2024-03-20T11:50:22.708Z - info: MongoDB connected
+2024-03-20T11:50:27.739Z - error: All Fields Mandatory
+2024-03-20T11:53:12.137Z - info: MongoDB connected
+2024-03-20T11:53:23.182Z - error: All fields mandatory
+2024-03-20T11:53:23.195Z - error: next is not defined
+2024-03-20T11:53:51.871Z - info: MongoDB connected
+2024-03-20T11:54:14.848Z - error: All fields mandatory
+2024-03-20T11:54:14.873Z - error: Not Found
+2024-03-20T11:55:24.173Z - info: MongoDB connected
+2024-03-20T11:55:26.337Z - error: All fields mandatory
+2024-03-20T11:55:26.343Z - error: Not Found
+2024-03-20T11:57:23.442Z - info: MongoDB connected
+2024-03-20T11:57:44.570Z - info: MongoDB connected
+2024-03-20T11:58:58.893Z - info: MongoDB connected
+2024-03-20T11:58:59.429Z - error: All Fields Mandatory
+=======
+2024-03-20T08:38:53.255Z - info: MongoDB connected
+2024-03-20T11:14:35.541Z - info: MongoDB connected
+>>>>>>> b7a0cec1f4a3dd73510742c40aaed281a35f5105
+2024-03-20T12:06:19.457Z - info: MongoDB connected
+2024-03-20T12:11:20.141Z - info: MongoDB connected
+2024-03-20T12:13:01.037Z - info: MongoDB connected
+2024-03-20T12:16:48.985Z - info: MongoDB connected
+2024-03-20T12:18:37.226Z - error: secretOrPrivateKey must have a value
+2024-03-21T08:50:06.720Z - info: MongoDB connected
+2024-03-21T08:50:11.399Z - error: Bad Request
+2024-03-21T08:51:35.468Z - error: Bad Request
+2024-03-21T08:52:38.095Z - error: Bad Request
+2024-03-21T08:52:45.800Z - error: Bad Request
+2024-03-21T08:53:59.618Z - info: New entry created in waiting list
+2024-03-21T08:56:13.190Z - error: Bad Request
+2024-03-21T08:57:08.693Z - info: MongoDB connected
+2024-03-21T09:01:45.597Z - error: Bad Request
+2024-03-21T09:06:48.041Z - error: Bed is not defined
+2024-03-21T09:11:30.446Z - info: MongoDB connected
+2024-03-21T09:13:24.455Z - info: MongoDB connected
+2024-03-21T09:18:12.729Z - info: MongoDB connected
+2024-03-21T09:20:35.301Z - info: MongoDB connected
+2024-03-21T09:22:03.616Z - info: MongoDB connected
+2024-03-21T09:23:37.837Z - info: MongoDB connected
+2024-03-21T09:24:25.468Z - info: MongoDB connected
+2024-03-21T09:25:18.105Z - info: New entry created in waiting list
+2024-03-21T09:32:41.036Z - error: secretOrPrivateKey must have a value
+2024-03-21T09:34:35.401Z - info: MongoDB connected
+2024-03-21T09:35:23.511Z - info: MongoDB connected
+2024-03-21T09:57:50.304Z - info: MongoDB connected
+2024-03-21T09:57:55.352Z - error: Transfer.f is not a function
+2024-03-21T09:58:26.728Z - info: MongoDB connected
+2024-03-21T10:00:11.692Z - info: MongoDB connected
+2024-03-21T10:01:53.821Z - info: MongoDB connected
+2024-03-21T10:03:53.229Z - error: Bad Request
+2024-03-21T10:04:48.746Z - info: MongoDB connected
+2024-03-21T10:07:19.835Z - info: Patient admitted successfully
+2024-03-21T12:41:02.757Z - info: MongoDB connected
