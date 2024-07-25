@@ -236,3 +236,496 @@
 2024-03-21T10:04:48.746Z - info: MongoDB connected
 2024-03-21T10:07:19.835Z - info: Patient admitted successfully
 2024-03-21T12:41:02.757Z - info: MongoDB connected
+2024-03-21T15:07:06.237Z - info: MongoDB connected
+2024-03-22T04:55:24.573Z - info: MongoDB connected
+2024-03-22T09:22:13.328Z - info: MongoDB connected
+2024-03-22T09:37:34.898Z - error: Failed to create entry in waiting list
+2024-03-22T09:40:59.618Z - info: MongoDB connected
+2024-03-22T09:41:44.304Z - error: Failed to create entry in waiting list
+2024-03-22T09:42:21.275Z - info: MongoDB connected
+2024-03-22T09:42:27.851Z - error: Bad Request
+2024-03-22T09:46:07.441Z - info: MongoDB connected
+2024-03-22T09:46:16.372Z - error: Bad Request
+2024-03-22T09:48:21.903Z - error: Bad Request
+2024-03-22T09:51:12.076Z - error: Bad Request
+2024-03-22T09:53:55.370Z - error: Failed to create entry in waiting list
+2024-03-22T09:53:55.372Z - error: Waiting validation failed: WaitlistEntryfields.0.priority: Path `priority` is required.
+2024-03-22T09:56:26.687Z - info: New entry created in waiting list
+2024-03-22T09:56:50.885Z - error: Bad Request
+2024-03-22T09:58:18.859Z - info: MongoDB connected
+2024-03-22T09:58:25.273Z - error: Invalid admission date
+2024-03-22T09:58:46.511Z - info: MongoDB connected
+2024-03-22T10:01:50.118Z - info: MongoDB connected
+2024-03-22T10:01:59.940Z - info: New entry created in waiting list
+2024-03-22T11:20:48.482Z - info: MongoDB connected
+2024-03-22T11:25:07.413Z - info: MongoDB connected
+2024-03-22T11:29:36.710Z - info: MongoDB connected
+2024-03-22T11:32:30.406Z - info: MongoDB connected
+2024-03-22T12:04:35.209Z - info: MongoDB connected
+2024-03-22T12:08:30.937Z - info: MongoDB connected
+2024-03-22T12:13:07.391Z - info: MongoDB connected
+2024-03-22T12:18:51.294Z - info: MongoDB connected
+2024-03-22T12:23:59.952Z - info: Added beds successfully
+2024-03-22T12:24:18.925Z - info: Added beds successfully
+2024-03-22T12:27:33.631Z - error: Failed to create entry in waiting list
+2024-03-22T12:27:33.635Z - error: bedNumber is not defined
+2024-03-22T12:29:12.583Z - info: MongoDB connected
+2024-03-22T12:29:29.336Z - error: Failed to create entry in waiting list
+2024-03-22T12:29:29.340Z - error: bedNumber is not defined
+2024-03-22T12:30:22.608Z - info: MongoDB connected
+2024-03-22T12:30:30.162Z - error: Failed to create entry in waiting list
+2024-03-22T12:30:30.165Z - error: bedNumber is not defined
+2024-03-22T12:31:07.355Z - info: MongoDB connected
+2024-03-22T12:31:13.523Z - info: New entry created in waiting list
+2024-03-25T05:33:11.280Z - info: MongoDB connected
+2024-03-25T05:48:57.591Z - info: MongoDB connected
+2024-03-25T07:56:18.766Z - info: MongoDB connected
+2024-03-25T07:58:53.034Z - error: Invalid admission date
+2024-03-25T08:14:24.814Z - info: MongoDB connected
+2024-03-25T08:16:33.799Z - info: MongoDB connected
+2024-03-25T08:17:35.008Z - info: MongoDB connected
+2024-03-25T08:20:39.705Z - info: MongoDB connected
+2024-03-25T08:22:28.750Z - info: MongoDB connected
+2024-03-25T08:22:55.452Z - error: Failed to create entry in waiting list
+2024-03-25T08:22:55.455Z - error: Waiting validation failed: WaitlistEntryfields.0.patientId: Cast to ObjectId failed for value "PAT-DEFC" (type string) at path "patientId" because of "BSONError"
+2024-03-25T08:23:29.604Z - info: MongoDB connected
+2024-03-25T08:23:39.394Z - info: New entry created in waiting list
+2024-03-25T08:32:06.108Z - info: MongoDB connected
+2024-03-25T08:35:23.104Z - info: MongoDB connected
+2024-03-25T08:40:19.920Z - info: MongoDB connected
+2024-03-25T08:40:49.859Z - info: New entry created in waiting list
+2024-03-25T09:09:58.897Z - info: MongoDB connected
+2024-03-25T09:40:27.342Z - info: MongoDB connected
+2024-03-25T09:41:01.915Z - info: New entry created in waiting list
+2024-03-25T09:41:13.233Z - info: New entry created in waiting list
+2024-03-25T09:44:37.955Z - info: MongoDB connected
+2024-03-25T10:07:04.005Z - info: MongoDB connected
+2024-03-25T14:49:39.704Z - info: MongoDB connected
+2024-03-25T14:54:37.970Z - info: MongoDB connected
+2024-03-25T14:55:01.430Z - info: MongoDB connected
+2024-03-25T14:55:36.538Z - error: Invalid Patient Not Found
+2024-03-25T15:00:38.729Z - error: Patient is not occupying the bed or already discharged.
+2024-03-25T15:01:40.141Z - info: Calculated Mortality Rate:
+2024-03-25T15:01:40.172Z - info: Patient discharged and bed record updated successfully.
+2024-03-26T04:43:18.077Z - info: MongoDB connected
+2024-03-26T04:46:47.292Z - info: Patient admitted successfully
+2024-03-26T04:48:48.380Z - info: Patient admitted successfully
+2024-03-26T04:49:04.752Z - error: Ward not found
+2024-03-26T04:49:04.755Z - error: Ward not found
+2024-03-26T05:09:53.185Z - info: Patient admitted successfully
+2024-03-26T05:11:46.570Z - info: Patient admitted successfully
+2024-03-26T05:12:53.628Z - error: Ward not found
+2024-03-26T05:12:53.635Z - error: Ward not found
+2024-03-26T05:23:12.416Z - info: MongoDB connected
+2024-03-26T05:27:12.145Z - info: Patient admitted successfully
+2024-03-26T05:29:18.671Z - info: Patient admitted successfully
+2024-03-26T11:25:29.188Z - info: MongoDB connected
+2024-03-26T11:37:42.602Z - info: MongoDB connected
+2024-03-26T11:38:50.249Z - info: MongoDB connected
+2024-03-26T11:44:00.889Z - info: MongoDB connected
+2024-03-26T12:36:44.632Z - info: MongoDB connected
+2024-03-26T12:37:36.074Z - info: MongoDB connected
+2024-03-26T12:38:29.321Z - info: MongoDB connected
+2024-03-26T12:42:28.918Z - info: MongoDB connected
+2024-03-26T12:46:46.220Z - info: MongoDB connected
+2024-03-26T12:48:47.311Z - info: MongoDB connected
+2024-03-28T13:11:09.359Z - info: MongoDB connected
+2024-03-28T13:14:36.262Z - info: MongoDB connected
+2024-03-28T13:30:00.943Z - info: MongoDB connected
+2024-03-29T04:44:22.589Z - info: Retrieved patient care dashboard data successfully
+2024-03-29T04:44:24.218Z - info: Retrieved patient care dashboard data successfully
+2024-03-29T04:44:24.318Z - info: Retrieved patient care dashboard data successfully
+2024-03-29T04:44:24.344Z - info: Retrieved patient care dashboard data successfully
+2024-03-29T09:44:48.552Z - info: MongoDB connected
+2024-03-29T10:05:07.658Z - info: New entry created in waiting list
+2024-03-29T13:55:30.626Z - info: Ward occupancy is displayed
+2024-03-29T13:55:31.620Z - error: Invalid Patient Not Found
+2024-03-29T13:55:32.411Z - info: Ward occupancy is displayed
+2024-03-29T13:55:32.521Z - error: Invalid Patient Not Found
+2024-03-29T13:55:33.130Z - info: Ward occupancy is displayed
+2024-03-29T13:55:33.157Z - error: Invalid Patient Not Found
+2024-03-29T13:55:33.186Z - info: Ward occupancy is displayed
+2024-03-29T13:55:33.273Z - error: Invalid Patient Not Found
+2024-03-29T14:31:44.300Z - info: Ward occupancy is displayed
+2024-03-29T14:31:44.840Z - error: Invalid Patient Not Found
+2024-03-29T14:31:44.952Z - info: Ward occupancy is displayed
+2024-03-29T14:31:44.954Z - error: Invalid Patient Not Found
+2024-03-29T14:31:45.013Z - info: Ward occupancy is displayed
+2024-03-29T14:31:45.514Z - info: Ward occupancy is displayed
+2024-03-29T14:31:45.640Z - error: Invalid Patient Not Found
+2024-03-29T14:31:45.715Z - error: Invalid Patient Not Found
+2024-03-29T14:31:45.817Z - info: Ward occupancy is displayed
+2024-03-29T14:31:45.955Z - error: Invalid Patient Not Found
+2024-03-29T14:31:45.978Z - info: Ward occupancy is displayed
+2024-03-29T14:31:54.523Z - error: Invalid Patient Not Found
+2024-03-30T10:31:10.375Z - info: MongoDB connected
+2024-03-30T11:02:35.913Z - info: Retrieved patient care dashboard data successfully
+2024-03-30T11:02:36.001Z - info: Retrieved patient care dashboard data successfully
+2024-03-30T11:42:46.127Z - info: Retrieved patient care dashboard data successfully
+2024-03-30T11:42:46.403Z - info: Retrieved patient care dashboard data successfully
+2024-03-30T11:52:52.310Z - info: Retrieved patient care dashboard data successfully
+2024-03-30T11:52:52.457Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T04:24:42.250Z - info: MongoDB connected
+2024-04-01T04:31:11.155Z - info: MongoDB connected
+2024-04-01T04:33:51.443Z - info: MongoDB connected
+2024-04-01T04:35:43.268Z - info: MongoDB connected
+2024-04-01T04:36:47.512Z - info: MongoDB connected
+2024-04-01T04:40:32.997Z - info: MongoDB connected
+2024-04-01T04:41:13.706Z - info: MongoDB connected
+2024-04-01T04:41:45.403Z - info: MongoDB connected
+2024-04-01T04:43:46.472Z - info: MongoDB connected
+2024-04-01T04:47:57.046Z - info: MongoDB connected
+2024-04-01T04:49:09.364Z - info: MongoDB connected
+2024-04-01T04:51:14.891Z - error: Bad Request
+2024-04-01T04:51:43.700Z - error: Not Found
+2024-04-01T04:52:51.552Z - info: Patient admitted successfully
+2024-04-01T05:55:06.690Z - info: MongoDB connected
+2024-04-01T06:15:40.695Z - info: MongoDB connected
+2024-04-01T06:29:26.404Z - info: MongoDB connected
+2024-04-01T06:33:44.309Z - info: MongoDB connected
+2024-04-01T06:44:42.771Z - info: MongoDB connected
+2024-04-01T06:47:56.888Z - info: MongoDB connected
+2024-04-01T06:52:15.647Z - info: MongoDB connected
+2024-04-01T06:57:12.236Z - info: MongoDB connected
+2024-04-01T07:00:18.015Z - info: MongoDB connected
+2024-04-01T07:00:22.217Z - error: Ward not found
+2024-04-01T07:00:22.219Z - error: Ward not found
+2024-04-01T07:01:30.266Z - info: MongoDB connected
+2024-04-01T07:01:38.086Z - error: Ward not found
+2024-04-01T07:01:38.090Z - error: Ward not found
+2024-04-01T07:04:20.656Z - info: MongoDB connected
+2024-04-01T07:54:58.527Z - info: Ward occupancy is displayed
+2024-04-01T07:54:59.054Z - error: Invalid Patient Not Found
+2024-04-01T07:54:59.809Z - info: Ward occupancy is displayed
+2024-04-01T07:54:59.874Z - error: Invalid Patient Not Found
+2024-04-01T07:55:00.133Z - info: Ward occupancy is displayed
+2024-04-01T07:55:00.188Z - error: Invalid Patient Not Found
+2024-04-01T07:55:00.236Z - info: Ward occupancy is displayed
+2024-04-01T07:55:00.281Z - error: Invalid Patient Not Found
+2024-04-01T07:55:16.902Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T07:55:16.958Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T07:58:09.494Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T07:58:09.507Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T09:55:08.750Z - error: Invalid Patient Not Found
+2024-04-01T09:55:09.020Z - info: Ward occupancy is displayed
+2024-04-01T09:55:09.244Z - error: Invalid Patient Not Found
+2024-04-01T09:55:09.279Z - info: Ward occupancy is displayed
+2024-04-01T09:55:09.645Z - error: Invalid Patient Not Found
+2024-04-01T09:55:09.737Z - info: Ward occupancy is displayed
+2024-04-01T09:55:09.815Z - error: Invalid Patient Not Found
+2024-04-01T09:55:09.913Z - info: Ward occupancy is displayed
+2024-04-01T10:02:45.342Z - info: Ward occupancy is displayed
+2024-04-01T10:02:45.778Z - info: Ward occupancy is displayed
+2024-04-01T10:02:46.125Z - error: Invalid Patient Not Found
+2024-04-01T10:02:46.259Z - error: Invalid Patient Not Found
+2024-04-01T10:04:59.535Z - error: Invalid Patient Not Found
+2024-04-01T10:04:59.543Z - info: Ward occupancy is displayed
+2024-04-01T10:04:59.713Z - info: Ward occupancy is displayed
+2024-04-01T10:04:59.737Z - error: Invalid Patient Not Found
+2024-04-01T10:09:40.477Z - info: MongoDB connected
+2024-04-01T10:22:56.262Z - info: Ward occupancy is displayed
+2024-04-01T10:22:56.506Z - error: Invalid Patient Not Found
+2024-04-01T10:22:56.669Z - info: Ward occupancy is displayed
+2024-04-01T10:22:56.738Z - error: Invalid Patient Not Found
+2024-04-01T10:22:56.855Z - info: Ward occupancy is displayed
+2024-04-01T10:22:56.977Z - error: Invalid Patient Not Found
+2024-04-01T10:22:56.996Z - info: Ward occupancy is displayed
+2024-04-01T10:22:57.044Z - error: Invalid Patient Not Found
+2024-04-01T10:31:39.990Z - error: Invalid Patient Not Found
+2024-04-01T10:35:36.442Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-01T10:36:36.445Z - info: MongoDB connected
+2024-04-01T10:39:03.768Z - info: Ward occupancy is displayed
+2024-04-01T10:39:03.912Z - info: Ward occupancy is displayed
+2024-04-01T10:57:57.999Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T10:57:58.340Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T10:58:01.461Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T10:58:01.554Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T11:28:15.696Z - info: Ward occupancy is displayed
+2024-04-01T11:28:15.940Z - info: Ward occupancy is displayed
+2024-04-01T11:28:17.407Z - info: Ward occupancy is displayed
+2024-04-01T11:28:17.659Z - info: Ward occupancy is displayed
+2024-04-01T11:28:39.840Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T11:28:40.183Z - info: Retrieved patient care dashboard data successfully
+2024-04-01T11:52:27.227Z - error: Bad Request
+2024-04-01T18:25:47.542Z - info: Added beds successfully
+2024-04-01T18:27:17.612Z - info: Added beds successfully
+2024-04-01T18:27:41.582Z - info: Added beds successfully
+2024-04-01T18:28:14.923Z - info: Patient admitted successfully
+2024-04-01T18:33:43.607Z - info: Patient admitted successfully
+2024-04-01T18:37:47.271Z - info: Patient admitted successfully
+2024-04-02T03:39:23.386Z - info: MongoDB connected
+2024-04-02T04:04:46.478Z - info: Patient admitted successfully
+2024-04-02T04:06:33.275Z - error: Not Found
+2024-04-02T04:07:14.926Z - error: Not Found
+2024-04-02T04:07:36.081Z - info: Patient admitted successfully
+2024-04-02T04:18:03.521Z - info: MongoDB connected
+2024-04-02T05:33:11.545Z - info: MongoDB connected
+2024-04-02T05:33:15.804Z - error: date.getDate is not a function
+2024-04-02T05:36:13.410Z - info: MongoDB connected
+2024-04-02T05:36:19.274Z - error: patient.admissionDate.getDate is not a function
+2024-04-02T05:36:48.190Z - info: MongoDB connected
+2024-04-02T05:38:46.528Z - info: MongoDB connected
+2024-04-02T05:38:51.205Z - error: Cannot read properties of undefined (reading 'padStart')
+2024-04-02T05:39:49.648Z - info: MongoDB connected
+2024-04-02T05:39:53.216Z - error: Cannot read properties of undefined (reading 'padStart')
+2024-04-02T05:39:56.275Z - error: Cannot read properties of undefined (reading 'padStart')
+2024-04-02T05:40:16.058Z - info: MongoDB connected
+2024-04-02T05:40:29.414Z - info: MongoDB connected
+2024-04-02T05:41:07.225Z - info: MongoDB connected
+2024-04-02T05:41:12.152Z - error: Cannot read properties of undefined (reading '3')
+2024-04-02T05:41:36.672Z - info: MongoDB connected
+2024-04-02T05:42:00.384Z - info: MongoDB connected
+2024-04-02T05:42:38.567Z - info: MongoDB connected
+2024-04-02T05:44:50.814Z - error: admissionDate is not defined
+2024-04-02T08:01:23.347Z - error: admissionDate is not defined
+2024-04-02T08:41:17.816Z - info: MongoDB connected
+2024-04-02T08:41:48.343Z - info: Calculated Mortality Rate:
+2024-04-02T08:41:48.559Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T08:52:29.245Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-02T09:05:34.644Z - info: MongoDB connected
+2024-04-02T09:10:36.665Z - info: MongoDB connected
+2024-04-02T17:14:45.256Z - error: email or password is not valid
+2024-04-02T17:18:45.811Z - info: MongoDB connected
+2024-04-02T17:19:34.694Z - info: MongoDB connected
+2024-04-02T17:44:49.397Z - info: MongoDB connected
+2024-04-02T17:50:07.381Z - info: MongoDB connected
+2024-04-02T17:56:39.769Z - info: MongoDB connected
+2024-04-02T18:00:35.432Z - error: Cannot read properties of undefined (reading 'startsWith')
+2024-04-02T18:01:12.991Z - error: Cannot read properties of undefined (reading 'startsWith')
+2024-04-02T18:02:59.547Z - info: MongoDB connected
+2024-04-02T18:03:30.954Z - error: Cannot read properties of undefined (reading 'startsWith')
+2024-04-02T18:03:50.796Z - error: Cannot read properties of undefined (reading 'startsWith')
+2024-04-03T03:24:54.588Z - info: MongoDB connected
+2024-04-03T04:32:18.207Z - info: MongoDB connected
+2024-04-03T04:49:30.453Z - info: MongoDB connected
+2024-04-03T04:53:01.974Z - info: MongoDB connected
+2024-04-03T04:55:22.981Z - info: MongoDB connected
+2024-04-03T05:11:30.509Z - info: MongoDB connected
+2024-04-03T05:33:47.506Z - info: MongoDB connected
+2024-04-03T05:35:44.924Z - info: MongoDB connected
+2024-04-03T05:36:52.327Z - info: MongoDB connected
+2024-04-03T05:39:10.464Z - info: MongoDB connected
+2024-04-03T05:39:51.661Z - info: MongoDB connected
+2024-04-03T05:40:37.386Z - info: MongoDB connected
+2024-04-03T05:41:19.397Z - info: MongoDB connected
+2024-04-03T05:42:24.958Z - info: MongoDB connected
+2024-04-03T05:43:03.042Z - info: MongoDB connected
+2024-04-03T05:51:59.792Z - info: MongoDB connected
+2024-04-03T05:53:17.276Z - info: MongoDB connected
+2024-04-03T05:54:14.965Z - info: MongoDB connected
+2024-04-03T07:00:46.400Z - info: Ward occupancy is displayed
+2024-04-03T07:00:47.146Z - info: Ward occupancy is displayed
+2024-04-03T07:00:47.361Z - info: Ward occupancy is displayed
+2024-04-03T07:00:48.094Z - info: Ward occupancy is displayed
+2024-04-03T07:04:12.718Z - info: Ward occupancy is displayed
+2024-04-03T07:04:12.853Z - info: Ward occupancy is displayed
+2024-04-03T07:04:13.098Z - info: Ward occupancy is displayed
+2024-04-03T07:04:13.333Z - info: Ward occupancy is displayed
+2024-04-03T07:04:27.590Z - info: Ward occupancy is displayed
+2024-04-03T07:04:27.736Z - info: Ward occupancy is displayed
+2024-04-03T07:04:27.885Z - info: Ward occupancy is displayed
+2024-04-03T07:04:27.974Z - info: Ward occupancy is displayed
+2024-04-03T07:04:34.912Z - info: Ward occupancy is displayed
+2024-04-03T07:04:34.985Z - info: Ward occupancy is displayed
+2024-04-03T07:04:41.142Z - info: Ward occupancy is displayed
+2024-04-03T07:04:41.262Z - info: Ward occupancy is displayed
+2024-04-03T07:10:54.848Z - info: Ward occupancy is displayed
+2024-04-03T07:11:02.458Z - info: Ward occupancy is displayed
+2024-04-03T07:11:09.435Z - info: Ward occupancy is displayed
+2024-04-03T07:11:09.535Z - info: Ward occupancy is displayed
+2024-04-03T07:11:12.818Z - info: Ward occupancy is displayed
+2024-04-03T07:11:12.960Z - info: Ward occupancy is displayed
+2024-04-03T07:15:24.361Z - info: Ward occupancy is displayed
+2024-04-03T07:15:24.579Z - info: Ward occupancy is displayed
+2024-04-03T07:52:50.426Z - info: MongoDB connected
+2024-04-03T11:04:17.701Z - error: Invalid admission date
+2024-04-03T11:13:10.567Z - info: New entry created in waiting list
+2024-04-03T11:26:08.676Z - error: Invalid admission date
+2024-04-03T11:31:37.802Z - info: MongoDB connected
+2024-04-03T11:35:31.539Z - error: Invalid admission date
+2024-04-03T11:56:41.060Z - error: Invalid admission date
+2024-04-03T12:18:41.648Z - info: MongoDB connected
+2024-04-03T12:32:41.288Z - info: Patient admitted successfully
+2024-04-03T12:37:10.681Z - info: MongoDB connected
+2024-04-03T12:41:36.083Z - info: MongoDB connected
+2024-04-03T12:42:21.636Z - error: Wards validation failed: wards.0.beds.5.medicalAcuity: Cast to string failed for value "[ 'High' ]" (type Array) at path "medicalAcuity"
+2024-04-03T12:42:57.847Z - info: Patient admitted successfully
+2024-04-03T12:52:52.088Z - info: MongoDB connected
+2024-04-03T12:54:59.005Z - info: MongoDB connected
+2024-04-03T12:55:21.132Z - info: Patient admitted successfully
+2024-04-03T13:06:29.735Z - info: Calculated Mortality Rate:
+2024-04-03T13:06:30.536Z - info: Patient discharged and bed record updated successfully.
+2024-04-03T13:31:18.923Z - info: MongoDB connected
+2024-04-04T04:42:18.244Z - info: MongoDB connected
+2024-04-04T05:03:40.753Z - error: Invalid admission date
+2024-04-04T05:18:50.708Z - error: Invalid admission date
+2024-04-04T05:27:27.656Z - error: Failed to create entry in waiting list
+2024-04-04T05:27:27.850Z - error: Waiting validation failed: WaitlistEntryfields.0.medicalAcuity: Cast to string failed for value "[ 'High' ]" (type Array) at path "medicalAcuity"
+2024-04-04T05:27:44.601Z - info: New entry created in waiting list
+2024-04-04T05:46:31.644Z - error: Invalid admission date
+2024-04-04T06:33:44.850Z - info: New entry created in waiting list
+2024-04-04T06:55:12.221Z - info: New entry created in waiting list
+2024-04-04T11:10:19.481Z - info: MongoDB connected
+2024-04-04T14:13:56.505Z - info: MongoDB connected
+2024-04-04T14:36:32.310Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T14:36:37.019Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T14:36:37.594Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T14:36:38.712Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T17:20:54.249Z - info: Ward occupancy is displayed
+2024-04-04T17:20:55.639Z - info: Ward occupancy is displayed
+2024-04-04T17:20:59.828Z - info: Ward occupancy is displayed
+2024-04-04T17:20:59.880Z - info: Ward occupancy is displayed
+2024-04-04T19:41:00.564Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:41:01.053Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:41:01.219Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:41:01.312Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:41:34.232Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:41:34.647Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:41:34.796Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:41:41.464Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:41:54.316Z - info: Ward occupancy is displayed
+2024-04-04T19:41:54.598Z - info: Ward occupancy is displayed
+2024-04-04T19:41:54.918Z - info: Ward occupancy is displayed
+2024-04-04T19:41:55.241Z - info: Ward occupancy is displayed
+2024-04-04T19:41:55.416Z - info: Ward occupancy is displayed
+2024-04-04T19:41:55.470Z - info: Ward occupancy is displayed
+2024-04-04T19:45:46.820Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:45:47.023Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:45:47.211Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T19:45:47.397Z - info: Retrieved patient care dashboard data successfully
+2024-04-05T04:39:18.473Z - info: MongoDB connected
+2024-04-05T06:18:08.320Z - info: Retrieved patient care dashboard data successfully
+2024-04-05T06:18:08.481Z - info: Retrieved patient care dashboard data successfully
+2024-04-05T06:18:08.532Z - info: Retrieved patient care dashboard data successfully
+2024-04-05T06:18:08.602Z - info: Retrieved patient care dashboard data successfully
+2024-04-05T08:39:46.471Z - info: Patient admitted successfully
+2024-04-05T08:40:52.847Z - info: Patient admitted successfully
+2024-04-05T08:42:36.941Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-05T08:57:11.955Z - info: MongoDB connected
+2024-04-05T09:14:02.004Z - info: MongoDB connected
+2024-04-05T09:20:20.628Z - info: MongoDB connected
+2024-04-05T13:11:54.629Z - info: MongoDB connected
+2024-04-07T10:54:27.769Z - info: MongoDB connected
+2024-04-07T11:09:30.296Z - info: Ward occupancy is displayed
+2024-04-07T11:09:30.402Z - info: ward availability is displayed
+2024-04-07T11:09:30.506Z - info: Ward occupancy is displayed
+2024-04-07T11:09:30.585Z - info: ward availability is displayed
+2024-04-07T11:09:30.640Z - info: Ward occupancy is displayed
+2024-04-07T11:09:30.671Z - info: ward availability is displayed
+2024-04-07T11:09:30.775Z - info: Ward occupancy is displayed
+2024-04-07T11:09:30.786Z - info: ward availability is displayed
+2024-04-07T11:09:31.135Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:09:31.225Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:09:31.239Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:09:31.259Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:10:02.090Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:02.141Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:02.177Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:02.209Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:23.171Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:23.201Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:47.073Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:47.090Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:47.111Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:10:47.190Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:11:20.730Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:11:20.746Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:11:20.810Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:11:20.836Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:12:21.915Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:12:21.939Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:12:22.011Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:12:22.110Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:12:43.604Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:12:43.634Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:12:43.964Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:12:44.205Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:13:01.831Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:13:01.867Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:13:01.920Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:13:01.947Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:13:12.473Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:13:12.507Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:13:12.532Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:13:12.557Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:15:06.673Z - error: email or password is not valid
+2024-04-07T11:15:26.954Z - info: Ward occupancy is displayed
+2024-04-07T11:15:27.063Z - info: Ward occupancy is displayed
+2024-04-07T11:15:27.072Z - info: ward availability is displayed
+2024-04-07T11:15:27.075Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:27.166Z - info: Ward occupancy is displayed
+2024-04-07T11:15:27.190Z - info: ward availability is displayed
+2024-04-07T11:15:27.212Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:27.301Z - info: Ward occupancy is displayed
+2024-04-07T11:15:27.341Z - info: ward availability is displayed
+2024-04-07T11:15:27.393Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:27.421Z - info: ward availability is displayed
+2024-04-07T11:15:27.445Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:47.099Z - info: Ward occupancy is displayed
+2024-04-07T11:15:47.110Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:47.123Z - info: ward availability is displayed
+2024-04-07T11:15:47.204Z - info: ward availability is displayed
+2024-04-07T11:15:47.208Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:47.268Z - info: Ward occupancy is displayed
+2024-04-07T11:15:47.296Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:47.331Z - info: Ward occupancy is displayed
+2024-04-07T11:15:47.349Z - info: ward availability is displayed
+2024-04-07T11:15:47.388Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:47.419Z - info: ward availability is displayed
+2024-04-07T11:15:47.445Z - info: Ward occupancy is displayed
+2024-04-07T11:15:56.764Z - info: Ward occupancy is displayed
+2024-04-07T11:15:56.788Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:56.825Z - info: Ward occupancy is displayed
+2024-04-07T11:15:56.909Z - info: ward availability is displayed
+2024-04-07T11:15:56.942Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:56.974Z - info: Ward occupancy is displayed
+2024-04-07T11:15:57.021Z - info: ward availability is displayed
+2024-04-07T11:15:57.077Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:57.104Z - info: Ward occupancy is displayed
+2024-04-07T11:15:57.159Z - info: ward availability is displayed
+2024-04-07T11:15:57.194Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:15:57.221Z - info: ward availability is displayed
+2024-04-07T11:20:14.980Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:20:15.037Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:20:15.058Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:20:15.088Z - info: Retrieved patient care dashboard data successfully
+2024-04-07T11:20:20.712Z - info: Ward occupancy is displayed
+2024-04-07T11:20:20.744Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:20:20.802Z - info: ward availability is displayed
+2024-04-07T11:20:20.859Z - info: Ward occupancy is displayed
+2024-04-07T11:20:20.880Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:20:20.946Z - info: ward availability is displayed
+2024-04-07T11:20:20.981Z - info: Ward occupancy is displayed
+2024-04-07T11:20:21.081Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:20:21.104Z - info: ward availability is displayed
+2024-04-07T11:20:21.145Z - info: Ward occupancy is displayed
+2024-04-07T11:20:21.197Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:20:21.217Z - info: ward availability is displayed
+2024-04-07T11:27:13.368Z - info: Ward occupancy is displayed
+2024-04-07T11:27:13.387Z - info: ward availability is displayed
+2024-04-07T11:27:13.406Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:27:13.490Z - info: ward availability is displayed
+2024-04-07T11:27:13.525Z - info: Successful retrieval of patient acuity breakdown
+2024-04-07T11:27:13.573Z - info: Ward occupancy is displayed
+2024-04-07T12:12:39.047Z - info: MongoDB connected
+2024-04-09T07:20:04.378Z - info: MongoDB connected
+2024-04-09T07:20:36.149Z - info: Added beds successfully
+2024-04-09T07:31:02.910Z - info: Patient admitted successfully
+2024-04-09T07:38:25.895Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-09T07:48:09.985Z - info: Calculated Mortality Rate:
+2024-04-09T07:48:10.249Z - info: Patient discharged and bed record updated successfully.
+2024-04-09T08:07:50.923Z - info: New entry created in waiting list
+2024-04-09T08:36:59.648Z - info: Ward occupancy is displayed
+2024-04-09T08:40:01.784Z - info: ward availability is displayed
+2024-04-09T08:44:03.682Z - info: Successful retrieval of patient acuity breakdown
+2024-04-09T09:04:35.299Z - info: Retrieved patient care dashboard data successfully
+2024-04-09T09:19:48.561Z - error: Ward not found
+2024-04-09T09:19:48.603Z - error: Ward not found
+2024-04-09T09:19:59.007Z - error: Ward not found
+2024-04-09T09:19:59.054Z - error: Ward not found
+2024-04-09T12:02:31.018Z - info: Retrieved bed availability data successfully
+2024-04-09T15:03:12.453Z - info: Added beds successfully
+2024-04-10T09:43:45.846Z - info: MongoDB connected
+2024-04-10T11:15:56.519Z - info: MongoDB connected
+2024-04-10T11:24:55.394Z - info: MongoDB connected
+2024-07-25T17:23:51.194Z - info: MongoDB connected

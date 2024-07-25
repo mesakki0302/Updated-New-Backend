@@ -79,11 +79,11 @@ const dischargePatient = asyncHandler(async (req, res) => {
     // Update bed record
     selectedBed.status = 'available';
     selectedBed.patientId = '';
-    // selectedBed.patientName = '';
-    // selectedBed.age = '';
-    // selectedBed.contactno = '';
-    // selectedBed.gender = '';
-    // selectedBed.medicalAcuity = '';
+    selectedBed.patientName = '';
+    selectedBed.age = '';
+    selectedBed.gender = '';
+    selectedBed.medicalAcuity = '';
+    selectedBed.admissionDate = '';
 
     // Save the updated bed record
     await bedData.save();
@@ -128,4 +128,16 @@ const dischargePatient = asyncHandler(async (req, res) => {
 });
 
 
-module.exports = { dischargePatient };
+//discharge get:
+const dischargeGets = asyncHandler(async (req, res) => {
+  const DischargeBeds = await Discharged.find();
+  if (DischargeBeds.length > 0) {
+      res.json(DischargeBeds);
+  } else if (DischargeBeds.length === 0) {
+      res.status(404);
+      throw new Error("Invalid Patient Not Found");
+  }
+});
+
+
+module.exports = { dischargePatient, dischargeGets };

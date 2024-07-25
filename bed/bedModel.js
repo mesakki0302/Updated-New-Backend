@@ -1,4 +1,3 @@
-
 const mongoose = require('mongoose');
 const bedSchema = new mongoose.Schema({
   wards:[
@@ -14,6 +13,11 @@ const bedSchema = new mongoose.Schema({
 
           status: String, // "available" or "occupied"
           patientId:String,
+          patientName:String,
+          age:String,
+          gender:String,
+          medicalAcuity:String,
+          admissionDate:String
         }]
     },
   ],

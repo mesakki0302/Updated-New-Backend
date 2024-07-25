@@ -16,12 +16,11 @@ const waitingListSchema = new mongoose.Schema({
       type: String,
       required: true,
     },
-    medicalAcuity:[{
+    medicalAcuity:{
         type:String,
         require:true
     
-    }],
-    bedNumber:String,
+    },
     wardId: {
       type: String,
     },

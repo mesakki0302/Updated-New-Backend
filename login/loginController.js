@@ -21,7 +21,7 @@ const Login = asyncHandler(async(req,res)=>{
             email:user.email,
             id:user.id
         }
-       },process.env.ACCESS_TOKEN,{expiresIn:"15m"})
+       },process.env.ACCESS_TOKEN,{expiresIn:"1h"})
        res.status(200).json({message:"Login Sucessfully",acesstoken})
     }
     else{

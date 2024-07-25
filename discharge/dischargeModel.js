@@ -22,12 +22,11 @@ const dischargeSchema = new mongoose.Schema({
     bedNumber: {
       type: String,
     },
-    medicalAcuity: [
+    medicalAcuity:
       {
         type: String,
         required: true,
       },
-    ],
     dischargeReasons: [
       {
         type: String,
@@ -35,10 +34,8 @@ const dischargeSchema = new mongoose.Schema({
       },
     ],
    
-    
-    
-  });
+});
   
-  const Discharged = mongoose.model('Discharge', dischargeSchema);
-  module.exports = Discharged;
+const Discharged = mongoose.model('Discharge', dischargeSchema);
+module.exports = Discharged;
   

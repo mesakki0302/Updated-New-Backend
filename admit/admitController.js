@@ -115,6 +115,11 @@ const admitPatient = asyncHandler(async (req, res, next) => {
   // Mark the bed as occupied in the bed collection
   selectedBed.status = 'occupied';
   selectedBed.patientId = patientId;
+  selectedBed.patientName = patientName;
+  selectedBed.age = age;
+  selectedBed.gender = gender;
+  selectedBed.medicalAcuity = medicalAcuity;
+  selectedBed.admissionDate = admissionDate;
 
   // Save changes to the bed data
   await bed.save();

@@ -1,9 +1,14 @@
 const express = require('express');
 const router = express.Router();
 
+const {getBedStatusAndAdmissionStatistics} = require('../dashboard/dash')
 const { paagHandler, wardOccup, availablebed,bedAvailabilityBoard,getAdmissionDischarge}=require('../dashboard/dashFirst')
 const {patientCare}=require('../dashboard/dashFirst')
 const {Dash7,Dash8,Dash9,Dash10,Dash11,Dash12}=require('../dashboard/dashLast');
+
+//dashboardIndex
+router.get('/dashIndex', getBedStatusAndAdmissionStatistics)
+
 
 //dashboard2:
 router.get('/wardoccupancys',wardOccup)
@@ -22,7 +27,7 @@ router.get('/patientCareDashboard', patientCare)
 //dashboard 1:
 router.get('/availbilityboard', bedAvailabilityBoard)
 //Dash 7:
-router.get('/risk', Dash7)
+router.get('/riskGet', Dash7)
 
 //dashboard 8:
 router.get('/bedturnaroundtimes', Dash8)
